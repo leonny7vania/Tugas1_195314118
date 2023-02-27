@@ -26,3 +26,24 @@ Paragraf ketiga, keempat, dan kelima memaparkan beberapa referensi penelitian me
 
 Paragraf keenam berisi ketertarikan peneliti untuk melakukan penelitian Implementasi Jaringan Syaraf Tiruan Backpropagation untuk Mendiagnosis Penyakit Kulit pada Anak.
 
+•	Bahan 
+2.	Penyakit Kulit pada Anak
+Membahas dengan singkat gejala enam penyakit kulit pada anak, antara lain:
+2.1	Cacar Air
+2.2	Scabies
+2.3	Campak
+2.4	Dermatitis
+2.5	Herpes
+2.6	Abses
+
+3.	Jaringan Syaraf Tiruan
+Jaringan Syaraf Tiruan (JST) merupakan salah satu metode yang berdasarkan pada cara kerja jaringan syaraf pada manusia dengan melakukan pembelajaran dari pola – pola pengalaman yang sudah ada sebelumnya, sehingga setiap sinyal masukan akan diolah dan diteruskan untuk mendapatkan keluaran yang sesuai. 
+3.1	Backpropagation
+Backpropagation memiliki proses pembelajaran maju dan perbaikan kesalah secara mundur. Model jaringanini sering digunakan untuk proses predoksi, pengenalan dan peramalan (Dewi & Muslikh, 2013). Metode ini mempunyai tiga fase dalam melakukan pelatihan backpropagation, yaitu feed forward, backpropagation, dan fase untuk memodifikasi bobot. Ketiga fase ini akan selalu dijalankan sampai kondisi penghentian terpenuhi.
+3.1.1	Nguyen Widrow
+Nguyen – Widrow merupakan algoritma yang digunakan untuk melakukan inisialisasi bobot awal pada JST untuk mengurangi waktu pelatihan.
+3.1.2	Langkah-langkah Algoritma Backpropagation
+Tiga fase di antaranya Feed Forward, Back Forward, dan perubahan bobot.
+3.1.3	Perhitungan Akurasi
+
+
