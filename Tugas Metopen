@@ -62,5 +62,23 @@ Pengujian yang terakhir adalah pengujian akurasi dengan membandingkan jumlah dat
 6.	Kesimpulan
 7.	Daftar Pustaka
 
+3.	Data apa yang digunakan? 
+Data yang digunakan dalam penelitian adalah data penyakit kulit pada anak. 
+4.	Berapa banyak data yang digunakan?
+Jumlah data 214 dimana 60 data akan dijadikan data uji.
+
+5.	Darimana sumber data yang digunakan?
+Data yang digunakan pada penelitian ini bersumber dari Poliklinik Sang Timur Sumenep.
+
+6.	Teori inti apa yang diimplementasikan dalam pengolahan data?
+Inti teori yang diimplementasikan dalam pengolahan data adalah penggunaan metode backpropagation dalam mendiagnosis penyakit kulit pada anak.
+
+7.	Apa hasil penelitiannya?
+Dari penelitian yang dilakukan oleh peneliti diperoleh akurasi yang tertinggi yaitu 90% dengan parameter terbaik adalah jumlah hidden neuron sebanyak 4, learning rate 0.4, epoch maksimum 300000. Penggunaan metode backpropagation berhasil digunakan untuk mendiagnosa penyakit kulit pada anak dengan mempelajari data dari masa lalu dan mendapatkan hasil diagnosis yang cukup tinggi.
+
+8.	Apa kesimpulan yang diperoleh dari penelitiannya?
+Dalam penelitian diagnosis penyakit kulit pada anak dengan metode backpropagation ini diketahui bahwa akurasi hanya mencapai 90% dikarenakan pada data uji tedapat data yang memiliki gejala sama tetapi hasil diagnosis berbeda, untuk penelitian kedepannya bisa menggunakan data yang terdapat lebih banyak gejala dan juga memperbanyak data latih sehingga dapat memaksimalkan hasil learning. Sehingga pada penelitian selanjutnya diharapkan dapat mendapatkan hasil sistem yang lebih akurat lagi.
+
+
 
 
