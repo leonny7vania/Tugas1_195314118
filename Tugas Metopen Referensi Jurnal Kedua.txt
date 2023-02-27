@@ -3,3 +3,7 @@ a. Matematika Diskrit
     Aljabar Boolean dan Teori Graf
 b. Jaringan Saraf Tiruan
     Feed-Forward Networks
+c. Pengenalan Pola
+    KNN, Cross Validation
+d. Algoritma Optimisasi
+    Algoritma Tabu Search
