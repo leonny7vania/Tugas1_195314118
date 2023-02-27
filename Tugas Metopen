@@ -46,4 +46,21 @@ Nguyen – Widrow merupakan algoritma yang digunakan untuk melakukan inisialisas
 Tiga fase di antaranya Feed Forward, Back Forward, dan perubahan bobot.
 3.1.3	Perhitungan Akurasi
 
+4.	Metode
+Proses dari diagnosis penyakit kulit pada anak ini melalui beberapa tahapan. Pertama melakukan pembobotan di semua bobot masukan menggunakan metode Nguyen-Widrow , kemudian melakukan pelatihan jaringan syaraf tiruan untuk mendapatkan bobot yang optimal dengan menggunakan data latih, selanjutnya masuk ke proses pengujian untuk mendapatkan diagnosis penyakit kulit beserta akurasinya.
+
+5.	Hasil dan Pembahasan
+5.1	Pengujian Jumlah Hidden neuron
+Pengujian jumlah hidden neuron bertujuan untuk mendapatkan nilai MSE error terkecil dari setiap kombinasi jumlah hidden neuron.
+5.2	Pengujian Nilai Learning rate
+Pada pengujian learning rate bertujuan untuk mendapatkan jumlah learning rate yang optimal terhadap nilai rata-rata MSE dari pelatihan. Nilai learning rate yang ditetapkan 0.1-0.9 dengan kelipatan 0.1.
+5.3	Pengujian Jumlah Epoch Maksimum
+Pada pengujian jumlah epoch maksimum bertujuan untuk mengetahui apakah sebelum epoch maksimum nilai MSE sudah konvergensi dini dan mendapatkan jumlah epoch maksimum yang optimal. Jumlah epoch maksimum yang digunakan adalah 100000, 200000, 300000 dan 400000.
+5.4	Pengujian Akurasi
+Pengujian yang terakhir adalah pengujian akurasi dengan membandingkan jumlah data latih sebanyak 50%, 60% dan 70% dari data. Pada pengujian ini menggunakan jumlah hidden neuron, learning rate dan jumlah epoch maksimum terbaik dari pengujian sebelumnya. Dimana didapatkan jumlah hidden neuron 4, learning rate 0.4 dan jumlah epoch maksimum 300000. Tujuan dari pengujian akurasi untuk mencari jumlah data latih yang optimal terhadap tingkat akurasi.
+
+6.	Kesimpulan
+7.	Daftar Pustaka
+
+
 
