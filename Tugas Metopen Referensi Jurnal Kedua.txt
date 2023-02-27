@@ -1,4 +1,5 @@
 Beberapa topik menarik yang ingin saya gunakan dalam Tugas Akhir:
 a. Matematika Diskrit
+    Aljabar Boolean dan Teori Graf
 b. Jaringan Saraf Tiruan
-
+    Feed-Forward Networks
