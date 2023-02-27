@@ -1,0 +1,28 @@
+Nama		: Leonny Benita Vania
+NIM		: 195314118
+Mata Kuliah	: Metodologi Penelitian
+Kelas		: A
+
+TUGAS RUMAH 2
+1.	Apa judul paper tersebut?
+Jawab:
+Judul paper yang diamati adalah Implementasi Jaringan Syaraf Tiruan Backpropagation untuk Mendiagnosis Penyakit Kulit pada Anak. 
+
+2.	Tuliskan semacam daftar isi dari papernya!
+Jawab: Daftar isi dari paper Implementasi Jaringan Syaraf Tiruan Backpropagation untuk Mendiagnosis Penyakit Kulit pada Anak, antara lain:
+•	Judul
+Menampilkan judul dari paper yaitu Implementasi Jaringan Syaraf Tiruan Backpropagation untuk Mendiagnosis Penyakit Kulit pada Anak.
+•	Abstrak
+Abstrak merupakan ringkasan singkat sebuah literatur atau tulisan. Pada abstrak paper Implementasi Jaringan Syaraf Tiruan Backpropagation untuk Mendiagnosis Penyakit Kulit pada Anak, dideskripsikan secara singkat mengenai latar belakang mengapa peneliti melakukan penelitian, metodologi penelitian yang digunakan oleh peneliti untuk mendiagnosis penyakit kulit pada anak, dan hasil akhir yang diperoleh melalui penelitian. 
+
+Latar belakang yang ditemukan oleh peneliti yakni setiap penyakit kulit memiliki gejala yang hampir mirip, sehingga menyulitkan masyarakat umum untuk mendiagnosis penyakit kulit yang diderita anak dengan tepat. Sedangkan, untuk metode yang digunakan dalam penelitian berpusat pada mengimplementasikan metode jaringan syaraf tiruan backpropagation untuk mempelajari data yang lampau agar dapat mendiagnosis penyakit kulit pada anak. Input berupa gejala dari semua penyakit kulit yang berjumlah 19 kemudian di representasikan ke dalam biner 0 dan 1 dinyatakan nilai akan bernilai 1 jika mengalami gejala tersebut dan sebaliknya. Fungsi aktivasi yang digunakan adalah sigmoid biner. Dan akan dilakukan pembelajaran secara berulang-uang sehingga dihasilkan jaringan yang memberi tanggapan benar terhadap input yang dimasukkan. Terakhir, untuk hasil akhir yang diperoleh dalam penelitian didapatkan parameter yang optimal yaitu pada hidden neuron berjumlah 4, learning rate 0.4 dan epoch maksimum 300000 dan hasil rata-rata akurasi dari penelitian adalah 87.22 % yang menunjukan bahwa metode backpropagation ini dapat digunakan dalam mendiagnosis penyakit kulit pada anak.
+
+1.	Pendahuluan
+Paragraf pertama memaparkan mengenai sistem kekebalan tubuh anak-anak lebih rentan terkena penyakit kulit yang disebabkan infeksi bakteri, virus, parasit, dan jamur (Annisa & Destiani & Dhami , 2012). Gejala pada penyakit kulit sulit dibedakan oleh masyarakat umum terutama orang tua, diharapkan melalui penelitian ini dapat membantu mendiagnosis penyakit kulit dengan tepat sehingga membantu orang tua dalam memberikan pertolongan pertama untuk anak pengidap penyakit kulit. 
+
+Paragraf kedua membahas salah satu penyakit kulit yang diderita anak-anak Indonesia. Di Indonesia angka kejadian penyakit campak dari tahun 1990 hingga 2002 masih cukup tinggi sekitar 3000-4000 per tahunnya. Pasien yang sedang mengidap penyakit campak terbanyak berumur <12 bulan, diikuti kelompok umur 1-4 dan 5-14 tahun (Antonius, 2009). Selain, data di atas disebutkan juga bahwa permasalahan yang ditimbulkan sulitnya membedakan satu penyakit kulit dengan lainnya akibat kemiripan gejala dapat diselesaikan dengan metode yang memberikan rekomendasi dengan pembelajaran pada data yang telah ada.
+
+Paragraf ketiga, keempat, dan kelima memaparkan beberapa referensi penelitian menggunakan metode Backpropagation. Penelitian pertama yang disebutkan adalah penelitian oleh Maria Agustin (2012) dengan metode backpropagation untuk seleksi penerimaan mahasiswa baru di politeknik negeri Sriwijaya. Dengan menggunakan data pada tahun 2008, 2009 dan 2010. Hasil pengujian dengan jumlah neuron 35, 3 hidden layer dan iterasi 5000 didapatkan regresi tinggi yaitu 0.8563 yang menjelaskan bahwa backpropagation cukup efektif untuk digunakan dalam seleksi penerimaan mahasiswa baru. Penelitian kedua yang dibahas dalam paper ini merupakan penelitian oleh Miss Ankeeta R Patel dan Maulin M. Joshi pada (2013) menggunakan backpropagation untuk mendiagnosis penyakit jantung dengan menggunakan data dari cheveland. Hasil pengujian yang dilakukan dengan data cheveland didapat MSE 0.0013 dan mendapatkan keberhasilan mencapai 100%. Sehingga, melalui penelitian ini diperoleh bahwa neural network memiliki keberhasilan dengan persentase tinggi dalam mendiagnosis penyakit jantung. Selanjutnya, penelitian ketiga adalah penelitian yang dilakukan Dewi & Muslikh pada (2013) yaitu tentang membandingkan akurasi jaringan syaraf tiruan backpropagation dengan Adaptive Neuro Fuzzy Inference System (ANFIS) untuk memprediksi cuaca. Dari hasil pengujian yang dilakukan diperoleh dengan metode backpropagation nilai Root Mean Square Error (RMSE) yang lebih kecil dan akurasi yang lebih besar dibandingkan dengan metode ANFIS.
+
+Paragraf keenam berisi ketertarikan peneliti untuk melakukan penelitian Implementasi Jaringan Syaraf Tiruan Backpropagation untuk Mendiagnosis Penyakit Kulit pada Anak.
+
